@@ -13,25 +13,17 @@ Co-sponsors: [School of Engineering and Applied Science](https://engineering.pri
 Do we want to have bio's, links, and/or pictures here?
 -->
 ## Instructors/Lecturers
-* [Charles Augustine]({{ site.baseurl }}/bios/charles-augustine)
-* [Vineet Bansal]({{ site.baseurl }}/bios/vineet-bansal)
-* [Matthew Cahn]({{ site.baseurl }}/bios/matthew-cahn)
-* [Sunita Chandrasekaran]({{ site.baseurl }}/bios/sunita-chandrasekaran)
+* [Gabe Perez-Giz]({{ site.baseurl }}/bios/gabe-perez-giz)
 * [Ian Cosden]({{ site.baseurl }}/bios/ian-cosden)
-* [Stephane Ethier]({{ site.baseurl }}/bios/stephane-ethier)
-* [Eliot Feibush]({{ site.baseurl }}/bios/eliot-feibush)
-* [Benjamin Hicks]({{ site.baseurl }}/bios/ben-hicks)
-* [Curt Hillegas]({{ site.baseurl }}/bios/curt-hillegas)
-* [Hyojoon Kim]({{ site.baseurl }}/bios/joon-kim)
-* [Dawn Koffman]({{ site.baseurl }}/bios/dawn-koffman)
-* [David Luet]({{ site.baseurl }}/bios/david-luet)
-* [Bei Wang]({{ site.baseurl }}/bios/bei-wang)
+* [Jonathan Havlerson]({{ site.baseurl }}/bios/jonathan-halverson)
+* [Dev Dabke]({{ site.baseurl }}/bios/dev-dabke)
+* [Carolina Roe-Raymond]({{ site.baseurl }}/bios/carolina-roe-raymond)
+* [Vineet Bansal]({{ site.baseurl }}/bios/vineet-bansal)
+* [Henry Schreiner]({{ site.baseurl }}/bios/henry-schreiner)
 
-## Graduate Student Assistants
-* Uno Vaaland
 
 ## Organizers
-* [Ian Cosden]({{ site.baseurl }}/bios/ian-cosden)
+* [Gabe Perez-Giz]({{ site.baseurl }}/bios/gabe-perez-giz)
 
 
 ## Website
