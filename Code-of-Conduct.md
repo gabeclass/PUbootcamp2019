@@ -15,8 +15,8 @@ Princeton Research Computing Bootcamp participants agree to:
 
 
 ## Need Help?
-Please speak with either Ian Cosden or Floe Fusin-Wischusen if you have any concerns.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ian Cosden, icosden[at]princeton.edu, (609) 258-2316  
+Please speak with either Gabe Perez-Giz or Floe Fusin-Wischusen if you have any concerns.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gabe Perez-Giz, gabe.perezgiz[at]princeton.edu, (609) 258-9575  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Floe Fusin-Wischusen, floe[at]princeton.edu, (609) 258-8071  
 You may also reach out to any bootcamp instructor.
 
