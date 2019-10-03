@@ -6,22 +6,22 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Bootcamp 2018
+title:            Bootcamp 2019
 tagline:
-url:              https://princetonuniversity.github.io/PUbootcamp
-baseurl:          '/PUbootcamp'
+url:              https://gabeclass.github.io/PUbootcamp2019
+baseurl:          '/PUbootcamp2019'
 author:
-  name:           Ian Cosden
-  url:            https://github.com/cosden/
-  email:          icosden@princeton.edu
+  name:           Gabe Perez-Giz
+  url:            https://github.com/gabeclass/
+  email:          perezgiz@princeton.edu
 plugins:
   - jekyll-redirect-from
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/PrincetonUniversity/PUBootcamp
-  code:           https://github.com/PrincetonUniversity/PUBootcamp
+  repo:           https://github.com/gabeclass/PUbootcamp2019
+  code:           https://github.com/gabeclass/PUbootcamp2019
 pages_list:
   Agenda:       'agenda'
   Registration: 'registration'
