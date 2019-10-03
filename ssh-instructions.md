@@ -3,7 +3,7 @@ layout: page
 title: Instructions to Connect to a Remote Linux Server and Open a Graphical Program
 ---
 
-Starting with the first bootcamp session it will be necessary for each participant to connect to Adroit and run remote commands.  In later sessions it will be necessary to run graphical programs.  This page details the steps required to install necessary software and test the configuration.  Please make sure to do this ***before*** the bootcamp.  To request an account on Adroit, fill out the [request form](https://forms.rc.princeton.edu/registration/?q=adroit).
+Starting with the first bootcamp session it will be necessary for each participant to connect to Adroit and run remote commands.  In some later sessions, it may be necessary to run graphical programs.  This page details the steps required to install necessary software and test the configuration.  Please make sure to do this ***before*** the bootcamp.  To request an account on Adroit, fill out the [request form](https://forms.rc.princeton.edu/registration/?q=adroit).
 
 
 
@@ -16,7 +16,7 @@ Starting with the first bootcamp session it will be necessary for each participa
 ssh -Y <NetID>@adroit.princeton.edu
 ```
 Note that you will need use your normal NetID and password, plus DUO.  If you receive a message like `ssh_exchange_identification: Connection closed by remote host`, you are likely trying to connect from off-campus and will need to [take additional steps](https://researchcomputing.princeton.edu/faq/why-cant-i-login-to-a-clu).
-1. Once you are logged in, you can test the xserver is working correctly by opening an xterm window by typing the `xterm` command. A new window should open with a terminal prompt.  If you get a message similar to "Can't open display:" it is not working correctly.
+1. Once you are logged in, you can test that the X server is working correctly by opening an xterm window (type the `xterm` command). A new window should open with a terminal prompt.  If you get a message similar to "Can't open display:" it is not working correctly.
 
 ### Windows ###
 
