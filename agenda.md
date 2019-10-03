@@ -25,8 +25,8 @@ title: Agenda
 | 12:30 - 1:30 | Lunch |
 | 1:30 - 2:30 | [How to Make Effective (and Beautiful) Plots]({{ site.baseurl }}/sessions/effective-plots/) <br> Instructor: *Carolina Roe-Raymond* |
 | 2:30&nbsp;-&nbsp;3:00 | Break |
-| 3:00 - 4:30 | [Intro to Numpy & Scipy]({{site.baseurl}}/sessions/intro-numpy-scipy/) <br> Instructor: *Gabe Perez-Giz, Vineet Bansal, Henry Schreiner* |
-| 4:30 - 5:30 | [Python AMA]({{site.baseurl}}/sessions/python-ama/) <br> Instructor: *Gabe Perez-Giz, Vineet Bansal, Henry Schreiner* |
+| 3:00 - 4:30 | [Intro to Numpy & Scipy]({{ site.baseurl }}/sessions/intro-numpy-scipy/) <br> Instructor: *Gabe Perez-Giz, Vineet Bansal, Henry Schreiner* |
+| 4:30 - 5:30 | [Python AMA]({{ site.baseurl }}/sessions/python-ama/) <br> Instructor: *Gabe Perez-Giz, Vineet Bansal, Henry Schreiner* |
 
 <br>
 ## Day 3 - Wednesday, October 31
@@ -35,7 +35,7 @@ title: Agenda
 | ------ | ----- |
 | 10:00 - 12:30 | [Collaborative Software Development with Git and Github]({{ site.baseurl }}/sessions/collab-github/) <br> Instructor: *Dev Dabke* |
 | 12:30 - 1:30 | Lunch |
-| 1:30 - 3:30 | [Command Line Power Tools]({{site.baseurl}}/sessions/command-line-tools/) <br> Instructor: *Gabe Perez-Giz* |
+| 1:30 - 3:30 | [Command Line Power Tools]({{ site.baseurl }}/sessions/command-line-tools/) <br> Instructor: *Gabe Perez-Giz* |
 | 3:30 - 3:45 | Closing Remarks |
 
 <!--
