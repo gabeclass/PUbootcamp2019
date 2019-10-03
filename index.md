@@ -1,37 +1,35 @@
 ---
 layout: page
-title: Princeton University Research Computing Bootcamp 2018
+title: Princeton University Research Computing Bootcamp 2019
 ---
 
 
 Organized and Sponsored by [Princeton Research Computing](https://www.princeton.edu/researchcomputing).  
 Co-sponsored by: [School of Engineering and Applied Science](https://engineering.princeton.edu/), [Princeton Neuroscience Institute](https://pni.princeton.edu/), [The Program in Applied & Computational Mathematics](https://www.pacm.princeton.edu/), and [The Center for Statistics and Machine Learning](https://csml.princeton.edu).
 
-**Where**: Princeton University, 120 Lewis Library
+**Where**: Princeton University, 138 Lewis Library
 
 
-**When**: October 29 - Nov 1, 2018  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          10/29: 8:30 am - 5:00 pm  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          10/30: 9:00 am - 6:00 pm  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          10/31: 9:00 am - 5:00 pm  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          11/1: 9:00 am - 2:00 pm  
+**When**: October 28 - 30, 2019  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          10/28: 9:45 am - 4:30 pm  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          10/29: 10:00 am - 5:30 pm  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          10/30: 10:00 am - 3:15 pm  
 
-This 4-day bootcamp will provide an introduction to a variety of topics, tools, and techniques necessary to be successful in modern computational research careers.  Participants will be exposed to many aspects of common computational workflows from version control to visualization and everything in between. The focus is not on learning specific programming languages.  Instead, our goal is to provide a broad exposure to a variety of subjects that are likely to be both immediately necessary as well as providing exposure to topics that will provide foundational knowledge and skills useful for future computational endeavors.   The bootcamp will consists of a series of short sessions (see [agenda]({{ site.baseurl }}/agenda)) each focused on a different topic.  Some sessions will be lectures, while others will have a combination of lecture and hands-on exercises to help reinforce new topics.
+This three-day bootcamp will provide an introduction to a variety of topics, tools, and techniques that form the foundation of skills and knowledge upon which modern computational research builds.  In a series of hands-on workshops, participants will be exposed to aspects of common computational workflows from  working powerfully on the command-line to using version control to practicing good data visualization.  The goal is to get participants conversant with these fundamental tools and skills, both because they empower researchers to learn more advanced material and because these skills are immediately useful in their own right.
 
-Lunch and coffee breaks will be provided each day.
+The bootcamp will consists of a series of short sessions (see agenda), each focused on a different topic. Almost all sessions will include hands-on exercises to help reinforce the topics.  Registration is required, but since some people will already have sufficient background in certain topics, participants will be able to register a-la carte for only the individual sessions they need.
+
+Lunch and coffee breaks will be provided daily.
 
 **Code of Conduct**: All participants are expected to follow the code of conduct described [here]({{ site.baseurl }}/Code-of-Conduct).
 
-**Registration**: Registration is now closed!  
-Open to all current Princeton University researchers/students. Seating is limited so advanced registration is required. **Participants are expected to attend all 4 days.** All participants must have an active PU NetID. A link to the registration site, along with more registration information can be found on the [Registration page]({{ site.baseurl }}/registration).
+**Registration**: Open to all members of the Princeton community.  Seating is limited so advanced registration is required.   **Attending the entire bootcamp is recommended, but participants must register "a la carte" for each individual session they would like to attend.** A link to the registration site, along with more registration information can be found on the [Registration page]({{ site.baseurl }}/registration).
 
-**Requirements**: Because of the hands on nature of portions of the bootcamp, each participant should bring a laptop and power supply each day.  Prior to the bootcamp all participants should have an adroit account ([register here](https://forms.rc.princeton.edu/registration/?q=adroit)) and an ssh client and Xserver installed and tested on their laptop prior to the bootcamp ([MacOSX, Windows, and Linux instructions]({{ site.baseurl }}/ssh-instructions)).
+**Requirements**: Because of the hands on nature of the sessions, **each participant should bring a laptop and power supply each day**. Prior to thebootcamp, all participants should **obtain an account on the Adroit cluster** ([register here](forms.rc.princeton.edu/registration/?q=adroit)) and **have an ssh client and Xserver installed and *tested* on their laptops prior to the bootcamp** ([MacOSX, Windows, and Linux instructions]({{ site.baseurl }}/ssh-instructions)).
 
-**Prerequisites**: Some basic programming experience will be expected of participants.  Participants will be assumed to have some understanding of basic programming principles and ideas.  Whenever possible the focus of the bootcamp, will NOT be on specific languages, or advanced programming concepts, however some experience with Python and C/C++ is recommended. Some Linux knowledge would be helpful, but not required, as the basics will be covered in the first session.
+**Prerequisites**: Most sessions require no prior experience with Linux or programming, but some require at least a bit of prior exposure to Linux or Python. More information about prerequisites can be found in the description for each session on the bootcamp website.
 
 Recommended resources for those with less experience to review prior to bootcamp:
 
-* [Beginners Guide to Python for Programmers and Non-Programmers](https://wiki.python.org/moin/BeginnersGuide)
-* [C Tutorial](https://www.cprogramming.com/tutorial/c-tutorial.html)
-* [C++ Tutorial](https://www.cprogramming.com/tutorial/c++-tutorial.html)
 * [Linux tutorial](https://ryanstutorials.net/linuxtutorial)
+* [Beginners Guide to Python for Programmers and Non-Programmers](https://wiki.python.org/moin/BeginnersGuide)
