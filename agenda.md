@@ -17,6 +17,7 @@ title: Agenda
 | 2:30 - 4:30 | [Intro to HPC on the Princeton Clusters]({{ site.baseurl }}/sessions/intro-to-hpc/) <br> Instructor: *Jon Halverson*|
 
 <br>
+
 ## Day 2 - Tuesday, October 30
 
 | Time | Session Title |
@@ -29,6 +30,7 @@ title: Agenda
 | 4:30 - 5:30 | [Python AMA]({{ site.baseurl }}/sessions/python-ama/) <br> Instructor: *Gabe Perez-Giz, Vineet Bansal, Henry Schreiner* |
 
 <br>
+
 ## Day 3 - Wednesday, October 31
 
 | Time | Session Title |
