@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Bootcamp 2019
 tagline:
-url:              https://gabeclass.github.io/PUbootcamp2019
+url:              https://princetonuniversity.github.io/PUbootcamp2019
 baseurl:          '/PUbootcamp2019'
 author:
   name:           Gabe Perez-Giz
@@ -20,8 +20,8 @@ plugins:
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/gabeclass/PUbootcamp2019
-  code:           https://github.com/gabeclass/PUbootcamp2019
+  repo:           https://github.com/PrincetonUniversity/PUbootcamp2019
+  code:           https://github.com/PrincetonUniversity/PUbootcamp2019
 pages_list:
   Agenda:       'agenda'
   Registration: 'registration'
