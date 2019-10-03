@@ -13,7 +13,7 @@ The bootcamp will consist of a series of short sessions (see agenda), each focus
 
 Lunch and coffee breaks will be provided daily.
 
-**Registration**: Open to all members of the Princeton community.  Seating is limited, so advance registration is required.   **While attending the entire bootcamp is recommended, participants will be able to register "a la carte" for each individual session they would like to attend.**
+**Registration**: Open to all members of the Princeton community.  Seating is limited, so advance registration is required.   **While attending the entire bootcamp is recommended, participants will be able to register "a la carte" for the individual sessions that they would like to attend.**
 
 **Requirements**: Because of the hands on nature of the sessions, **participants should bring their own laptops and power supplies each day**. Prior to the bootcamp, all participants should **obtain an account on the Adroit cluster** ([register here](forms.rc.princeton.edu/registration/?q=adroit)) and **have an ssh client and Xserver installed and *tested* on their laptops prior to the bootcamp** ([MacOSX, Windows, and Linux instructions](https://princetonuniversity.github.io/PUbootcamp/ssh-instructions)).
 
