@@ -6,6 +6,9 @@ instructor_title: Training Specialist
 instructor_affiliation: PICSciE, Princeton University
 ---
 
+[Instructor bio]({{ site.baseurl }}/bios/gabe-perez-giz/)
+
+
 ## Description
 This workshop will introduce participants to the Linux filesystem and the Linux command line (specifically the bash shell). It will demonstrate how to navigate the filesystem, work with files using common Linux text utilities, and run programs, and it will cover more advanced concepts such as streams, pipelines, file permissions, and environment variables. Participants will also learn how to connect to remote machines (like the Princeton clusters) via SSH. Most of the workshop material translates to the command line on MacOS or other Unix systems (exceptions will be noted). This workshop presumes no prior knowledge of computer programming or of Linux/Unix.
 
@@ -22,7 +25,6 @@ None
 ## Session format
 Presentation and hands-on
 
-[Instructor bio]({{ site.baseurl }}/bios/gabe-perez-giz/)
 
 ## Session Materials ##
 <!--
