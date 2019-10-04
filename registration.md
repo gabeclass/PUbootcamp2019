@@ -7,7 +7,7 @@ Registration is now closed. For those that are unable to attend this time, we do
 <br/><br/>
 -->
 
-Please register using [this form](https://forms.gle/1GuAnsrQLEnnsAa19).
+Please register using [this form](https://forms.gle/1GuAnsrQLEnnsAa19) (to access the form, you must be logged into Google Apps with your Princeton credentials).
 
 [Registration](https://forms.gle/1GuAnsrQLEnnsAa19) is open to all current Princeton University researchers, students, or staff.  Seating is extremely limited, and we expect to run out of space.  Participants can choose which sessions to attend, but **advance registration is required.**
 <!--
