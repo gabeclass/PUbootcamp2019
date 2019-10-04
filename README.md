@@ -15,7 +15,7 @@ Lunch and coffee breaks will be provided daily.
 
 **Registration**: Open to all members of the Princeton community.  Seating is limited, so advance registration is required.   **Although attending the entire bootcamp is recommended, participants will have the option to register for just the individual sessions that they would like to attend.**
 
-**Requirements**: Because the sessions are hands-on, **participants should bring their own laptops and power supplies each day**. Prior to the bootcamp, all participants should **obtain an account on the Adroit cluster** ([register here](forms.rc.princeton.edu/registration/?q=adroit)) and **have an ssh client and Xserver installed and *tested* on their laptops prior to the bootcamp** ([MacOSX, Windows, and Linux instructions](https://princetonuniversity.github.io/PUbootcamp/ssh-instructions)).
+**Requirements**: Because the sessions are hands-on, **participants should bring their own laptops and power supplies each day**. Prior to the bootcamp, all participants should **obtain an account on the Adroit cluster** ([register here](forms.rc.princeton.edu/registration/?q=adroit)) and **have an ssh client and X server installed and *tested* on their laptops prior to the bootcamp** ([MacOSX, Windows, and Linux instructions](https://princetonuniversity.github.io/PUbootcamp/ssh-instructions)).
 
 **Prerequisites**: Prerequisites vary from session to session. Some require no prior experience. Others assume material presented earlier in the bootcamp. Still others require at least some prior exposure to Linux and/or Python. More information about a session's prerequisites can be found in that session's description on the bootcamp website.  
 
