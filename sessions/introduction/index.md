@@ -2,7 +2,7 @@
 layout: session
 title: Welcome and Introduction
 instructor: Gabe Perez-Giz
-instructor_title:  Training Specialist, PICSciE
+instructor_title:  Training Specialist
 instructor_affiliation: PICSciE, Princeton University
 ---
 
