@@ -1,6 +1,6 @@
 ---
 layout: session
-title: Introduction to the Linux Command line
+title: Command Line Power Tools
 instructor: Gabe Perez-Giz
 instructor_title: Training Specialist
 instructor_affiliation: PICSciE, Princeton University
