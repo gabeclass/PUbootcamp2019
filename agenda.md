@@ -14,7 +14,7 @@ title: Agenda
 | 12:00 - 1:00 | Lunch (Outside 138 Lewis)|
 | 1:00 - 2:00 | [Good Practices for Research Software Engineering]({{ site.baseurl }}/sessions/good-practices/) <br> Instructor: *Ian Cosden* |
 | 2:00 - 2:30 | Break |
-| 2:30 - 4:30 | [Intro to HPC on the Princeton Clusters]({{ site.baseurl }}/sessions/intro-to-hpc/) <br> Instructor: *Jon Halverson*|
+| 2:30 - 4:30 | [Intro to HPC on the Princeton Clusters]({{ site.baseurl }}/sessions/intro-to-hpc/) <br> Instructor: *Jonathan Halverson*|
 
 <br>
 
