@@ -1,6 +1,6 @@
 ---
 layout: session
-title: Intro to HPC on the Princeton Clusters
+title: Intro to Numpy and Scipy
 instructor: Vineet Bansal
 instructor_title: Research Software Engineer
 instructor_affiliation: CSML & Research Computing, Princeton University
