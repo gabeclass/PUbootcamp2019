@@ -6,6 +6,9 @@ instructor_title: Research Software & Programming Analyst
 instructor_affiliation: PICSciE, Princeton University
 ---
 
+[Instructor bio]({{ site.baseurl }}/bios/jonathan-halverson/)
+
+
 ## Description ##
 This session will introduce participants to high-performance computing (HPC) concepts and teach them how to start using the research computing clusters (Perseus, Della, Tiger, Traverse) at Princeton. The Tigress storage system and the visualization machine will also be covered. This session presumes no previous knowledge of HPC.
 
@@ -20,8 +23,6 @@ Basic Linux and the Bash command-line (covered in the earlier "Intro to the Linu
 
 ## Session format ##
 Lecture and hands-on
-
-[Instructor bio]({{ site.baseurl }}/bios/ben-hicks/)
 
 ## Session Materials ##
 
